@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CollegeProject/static/css/main.d7eae7ac.chunk.css",
+    "main.js": "/CollegeProject/static/js/main.85d85065.chunk.js",
+    "main.js.map": "/CollegeProject/static/js/main.85d85065.chunk.js.map",
+    "runtime-main.js": "/CollegeProject/static/js/runtime-main.0eac450f.js",
+    "runtime-main.js.map": "/CollegeProject/static/js/runtime-main.0eac450f.js.map",
+    "static/js/2.24735a5a.chunk.js": "/CollegeProject/static/js/2.24735a5a.chunk.js",
+    "static/js/2.24735a5a.chunk.js.map": "/CollegeProject/static/js/2.24735a5a.chunk.js.map",
+    "index.html": "/CollegeProject/index.html",
+    "precache-manifest.988f0fca94d775e34e99f21689691008.js": "/CollegeProject/precache-manifest.988f0fca94d775e34e99f21689691008.js",
+    "service-worker.js": "/CollegeProject/service-worker.js",
+    "static/css/main.d7eae7ac.chunk.css.map": "/CollegeProject/static/css/main.d7eae7ac.chunk.css.map",
+    "static/js/2.24735a5a.chunk.js.LICENSE.txt": "/CollegeProject/static/js/2.24735a5a.chunk.js.LICENSE.txt",
+    "static/media/back.3823c1cc.svg": "/CollegeProject/static/media/back.3823c1cc.svg",
+    "static/media/crwn.ed28accb.svg": "/CollegeProject/static/media/crwn.ed28accb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0eac450f.js",
+    "static/js/2.24735a5a.chunk.js",
+    "static/css/main.d7eae7ac.chunk.css",
+    "static/js/main.85d85065.chunk.js"
+  ]
+}
